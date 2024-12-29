@@ -20,19 +20,6 @@ Overview of the Project
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Objectives:
 
 •	Calculate Body Mass Index (BMI): Provide an easy way for users to calculate their BMI based on their height and weight.
