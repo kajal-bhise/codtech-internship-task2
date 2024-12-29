@@ -10,6 +10,10 @@ Overview of the Project
  Project: BMI Tracker App
 
 
+![WhatsApp Image 2024-12-29 at 17 45 27](https://github.com/user-attachments/assets/4e2f1d81-f56a-4d12-8e99-dcfebc8c0d5d)
+![WhatsApp Image 2024-12-29 at 17 45 26 (2)](https://github.com/user-attachments/assets/8a375b03-d11b-4e27-9c9d-a131dfa6f14a)
+![WhatsApp Image 2024-12-29 at 17 45 26 (1)](https://github.com/user-attachments/assets/81299cf2-18b1-4590-9082-2a381a27ceb0)
+![WhatsApp Image 2024-12-29 at 17 45 26](https://github.com/user-attachments/assets/0e8cec03-04f4-4e4e-9952-7a68dce1568c)
 
 
 
